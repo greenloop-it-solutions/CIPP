@@ -337,7 +337,7 @@
     "cat": "SharePoint",
     "helpText": "This is the default helptext",
     "addedComponent": null,
-    "label": "Retain a deleted user OneDrive for 1 year"
+    "label": "Retain a deleted user OneDrive for the maximum of 10 years"
   },
   {
     "name": "standards.DisableUserSiteCreate",
