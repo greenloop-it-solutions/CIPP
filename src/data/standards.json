@@ -562,9 +562,9 @@
   {
     "name": "standards.DeletedUserRentention",
     "cat": "SharePoint Standards",
-    "helpText": "Sets the retention period for deleted users OneDrive to 1 year/365 days",
+    "helpText": "Sets the retention period for deleted users OneDrive to the maximum of 10 years/3650 days",
     "addedComponent": [],
-    "label": "Retain a deleted user OneDrive for 1 year",
+    "label": "Retain a deleted user OneDrive for 10 years",
     "impact": "Low Impact",
     "impactColour": "info"
   },
