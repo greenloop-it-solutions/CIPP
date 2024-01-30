@@ -496,7 +496,7 @@
     "cat": "SharePoint",
     "helpText": "Sets the retention period for deleted users OneDrive to 1 year/365 days",
     "addedComponent": null,
-    "label": "Retain a deleted user OneDrive for 1 year"
+    "label": "Retain a deleted user OneDrive for the maximum of 10 years"
   },
   {
     "name": "standards.DisableUserSiteCreate",
